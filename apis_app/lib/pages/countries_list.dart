@@ -29,7 +29,7 @@ class _CountriesListState extends State<CountriesList> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.grey[200],
+      backgroundColor: Colors.grey[300],
       appBar: AppBar(
         title: Text("Countries"),
       ),
